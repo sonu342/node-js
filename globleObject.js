@@ -1,0 +1,8 @@
+// _dirname
+// _filename
+// require
+// exports
+// console.log(__dirname) 
+// console.log(__filename)
+const data = require('./student')
+console.log(data)
